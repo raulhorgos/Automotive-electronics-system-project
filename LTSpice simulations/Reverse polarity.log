@@ -1,0 +1,22 @@
+Circuit: * D:\UTCN\Teme\AN 1 M\ESA\Proiect_Horgos_Raul\LTspice\Reverse polarity.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Jun 13 15:40:48 2026
+Total elapsed time: 6.463 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 909674
+traniter = 909646
+tranpoints = 408436
+accept = 371903
+rejected = 36533
+matrix size = 15
+fillins = 14
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 1.87 KB object code size  0.3/0.3/[0.2]
+Matrix Compiler2: 1.50 KB object code size  0.2/0.3/[0.2]
+
